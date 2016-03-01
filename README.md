@@ -1,5 +1,3 @@
-##exc_to_pt.py
-
 ##ArcPy
 
 ###Description:
