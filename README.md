@@ -16,4 +16,4 @@ Python script that utilizes the Python ArcPy library to create a project file gd
 5. If the program is running and completes successfully, you should see several print statements as the program is running, and then a print statement that reads 'PROGRAM COMPLETED SUCCESSFULLY'. Navigate to your project path and view the gdb and featureclasses to make sure everything is good to go.
 
 
-##¡Voilá!
+##Voilá!
