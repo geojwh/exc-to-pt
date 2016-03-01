@@ -1,7 +1,7 @@
 ##exc_to_pt
 
 ###Description:
-Python script that utilizes the ##Python ArcPy library to create a project file gdb, loop through all project .xlsx files and sheets (tables) in the given directory path, and converts all relevant tables to feature classes in the new project gdb.
+Python script that utilizes the **Python ArcPy** library to create a project file gdb, loop through all project .xlsx files and sheets (tables) in the given directory path, and converts all relevant tables to feature classes in the new project gdb.
 
 ###Preparation:
 1. Only tables (sheets) with both "Lat" and "Lon" field names can be included, otherwise the program will print an error.
