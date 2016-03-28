@@ -13,7 +13,7 @@
 # Instructions to run program:
 # (1) Open a command window in the same directory that this script is saved - hold shift and right-click anywhere in the directory, choose
 #     'open command window here'.
-# (2) Type 'python exc_to_pt.py' and Press Enter. - this only works if you have already added python to the path in the system environment variables
+# (2) Type 'python exc-to-pt.py' and Press Enter. - this only works if you have already added python to the path in the system environment variables
 #	  (Windows). If you have not done this, you will need to do so or use an IDE to run this script, such as IDLE or PyCharm, etc.
 # (3) When prompted, enter the path to where your project xlsx files are saved. Press Enter.
 # (4) When prompted, enter the name of your project file geodatabase, including the .gdb file extension. Press Enter.
