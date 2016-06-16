@@ -19,7 +19,7 @@
 # (4) When prompted, enter the name of your project file geodatabase, including the .gdb file extension. Press Enter.
 # (5) If the program is running and completes successfully, you should see several print statements as the program is running, and then
 #     a print statement that reads 'PROGRAM COMPLETED SUCCESSFULLY'. Navigate to your project path and view the gdb and featureclasses to
-#     make sure everything is good to go. !Viola!
+#     make sure everything is good to go. !Voila!
 
 # *** Additional customization to this script can be completed in the future in order to include joining 'null' lat/lon values in DPS citation datasets
 #     to a TXDOT mile marker file (method developed to enhance location information for null data points). That data will then be merged back to the original
