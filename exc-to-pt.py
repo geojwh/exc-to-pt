@@ -2,13 +2,12 @@
 # Date: December 2015
 
 # Description: Python script that utilizes arcpy to create a project file gdb, loop through all project .xlsx files and sheets (tables)
-# in the given path, and convert all relevant tables to feature classes in the new project gdb. This script is used
-# for the preparation of Texas crash and/or citation data for use in Texas DPS-HSOC geospatial products.
+# in the given path, and convert all relevant tables to feature classes in the new project gdb.
 
 # Preparation:
 # (1) Only tables (sheets) with both "Lat" and "Lon" field names can be included, otherwise the program will print an error.
 # (2) Insure there are no spaces or strange characters in the sheet names of each excel file. Give each sheet a descriptive
-#     name such as "Crash_2015".
+#     name such as "Crash2015".
 
 # Instructions to run program:
 # (1) Open a command window in the same directory that this script is saved - hold shift and right-click anywhere in the directory, choose
