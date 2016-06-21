@@ -1,4 +1,4 @@
-##exc_to_pt
+##exc-to-pt
 
 ###Description:
 Python script that utilizes the **ArcPy** library to create a project file gdb, loop through all project .xlsx files and sheets (tables) in the given directory, and converts all relevant tables to feature classes in the new project gdb.
